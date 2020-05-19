@@ -140,4 +140,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 venv
+/media
+/static
 
+
+.idea/.gitignore
+.idea/btre_project.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+btre/static/
+static/
